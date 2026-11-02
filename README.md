@@ -6,7 +6,12 @@ Machine Learning project focused on predicting depression risk among university 
 ---
 
 ## Dataset
-**Student Mental Health Survey**
+
+**Students Mental Health Assessments**
+
+- Source: [Kaggle Dataset](https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments)
+- Records: 7,022
+- Features: 20 columns
 
 ## Technologies
 - Python
